@@ -1,1 +1,3 @@
 hello! git
+
+We learn to operate git.
